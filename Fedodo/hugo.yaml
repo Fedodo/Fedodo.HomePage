@@ -1,16 +1,12 @@
-baseURL: http://something-fresh.org/
+baseURL: https://fedodo.org
 languageCode: en-us
-title: Hugo Fresh Theme
+title: Fedodo
 
 module:
-  # uncomment line below for local development of module
-  # workspace: hugo.work
   imports:
     path: github.com/StefMa/hugo-fresh
 
 
-googleAnalytics: # Put in your tracking code without quotes like this: UA-XXX for universal tracking or G-XXX analytics v4 tracking
-# Disables warnings
 disableKinds:
 - taxonomy
 - taxonomyTerm
@@ -37,8 +33,7 @@ params:
     name: "Open Sans"
     sizes: [400,600]
   hero:
-    # Main hero title
-    title: Manage. Deploy.
+    title: One Social-Media platform for all your needs
     # Hero subtitle (optional)
     subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
     # Button text
@@ -76,8 +71,8 @@ params:
       url: /
   - title: Log in
     url: /
-  - title: Sign up
-    url: /
+  - title: Find Server
+    url: https://join.fedodo.org
     button: true
   sidebar:
     # Logo (from /images/logos/___.svg)
@@ -181,17 +176,10 @@ params:
     socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://github.com/lucperkins/github-fresh
-      # Icons are from Font Awesome
+    - link: https://github.com/Fedodo
       icon: github
-    - link: https://dribbble.com/#
-      icon: dribbble
-    - link: https://facebook.com/#
-      icon: facebook
-    - link: https://twitter.com/lucperkins
-      icon: twitter
-    - link: https://bitbucket.org/#
-      icon: bitbucket
+    - link: https://mastodon.social/@Fedodo
+      icon: mastodon
     bulmalogo: true
     quicklinks:
       column1:
