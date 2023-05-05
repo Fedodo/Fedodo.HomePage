@@ -1,0 +1,95 @@
+baseURL: https://fedodo.org
+languageCode: en-us
+title: Fedodo
+
+module:
+  imports:
+    path: github.com/Fedodo/Fedodo.HomePage.Theme
+
+disableKinds:
+  - taxonomy
+  - taxonomyTerm
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  openGraph: true
+  description: This is the home page for the Fedodo social network.
+  navbarlogo:
+    image: logos/Fedodo Circle.svg
+    link: /
+    width: 50
+  font:
+    name: "Open Sans"
+    sizes: [ 400,600 ]
+  hero:
+    title: One Social-Media platform for all your needs
+    subtitle: Fedodo provides you with one server which handles all of your Social Networks.
+    buttontext: Get started
+    buttonlink: "#"
+    image: Fedodo.svg
+    # Footer logos (from static/images/logos/clients/*.svg)
+    # urls are optional
+  #    clientlogos:
+  #    - logo: systek
+  #      url: https://google.com
+  #    - logo: tribe
+  #      url: https://stefma.github.io/hugo-fresh/
+  #    - logo: kromo
+  #      url: https://github.com/StefMa/hugo-fresh
+  #    - logo: infinite
+  #      url: https://hugo-fresh.vercel.app/
+  #    - logo: gutwork
+  #      url: https://bulma.io/
+
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+    - title: Features
+      url: /
+    - title: Docs
+      url: https://docs.fedodo.org
+    - title: Host Server
+      url: /host
+    - title: Find Server
+      url: https://join.fedodo.org
+      button: true
+
+  footer:
+    logo: Fedodo Circle Dark.svg
+    socialmediatitle: Follow Us
+    socialmedia:
+      - link: https://github.com/Fedodo
+        icon: fa-brands fa-github
+      - link: https://mastodon.social/@Fedodo
+        icon: fa-brands fa-mastodon
+    quicklinks:
+      column1:
+        title: "Fedodo"
+        links:
+          - text: Discover features
+            link: /
+          - text: Compare features
+            link: /
+          - text: Our roadmap
+            link: /
+      column2:
+        title: "Docs"
+        links:
+          - text: Get started
+            link: /
+          - text: User guides
+            link: /
+          - text: Admin guide
+            link: /
+          - text: Developers
+            link: /
+      column3:
+        title: Legal
+        links:
+          - text: Legal Details
+            link: /legal/legaldetails
+          - text: Privacy Policy
+            link: /legal/privacypolicy
