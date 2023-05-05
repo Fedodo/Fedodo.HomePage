@@ -29,7 +29,7 @@ params:
     title: One Social-Media platform for all your needs
     subtitle: Fedodo provides you with one server which handles all of your Social Networks.
     buttontext: Get started
-    buttonlink: "#"
+    buttonlink: /comingsoon
     image: Fedodo.svg
 
   navbar:
