@@ -29,20 +29,20 @@ params:
     title: One Social-Media platform for all your needs
     subtitle: Fedodo provides you with one server which handles all of your Social Networks.
     buttontext: Get started
-    buttonlink: "#"
+    buttonlink: /comingsoon
     image: Fedodo.svg
 
   navbar:
     - title: Features
-      url: /
+      url: /comingsoon
     - title: GitHub
       url: https://github.com/Fedodo
     - title: Docs
-      url: https://docs.fedodo.org
+      url: /comingsoon
     - title: Host Server
-      url: /host
+      url: /comingsoon
     - title: Find Server
-      url: https://join.fedodo.org
+      url: /comingsoon
       button: true
 
   footer:
@@ -58,22 +58,22 @@ params:
         title: "Fedodo"
         links:
           - text: Discover features
-            link: /
+            link: /comingsoon
           - text: Compare features
-            link: /
+            link: /comingsoon
           - text: Our roadmap
-            link: /
+            link: /comingsoon
       column2:
         title: "Docs"
         links:
           - text: Get started
-            link: /
+            link: /comingsoon
           - text: User guides
-            link: /
+            link: /comingsoon
           - text: Admin guide
-            link: /
+            link: /comingsoon
           - text: Developers
-            link: /
+            link: /comingsoon
       column3:
         title: Legal
         links:
