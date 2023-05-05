@@ -4,6 +4,8 @@ github.com/Fedodo/Fedodo.HomePage.Theme v1.1.0 h1:4KIylfpPffWvVvGr/10UPa4o6t+w4d
 github.com/Fedodo/Fedodo.HomePage.Theme v1.1.0/go.mod h1:vCc0Z+a3U3dPmbaaA7fPVE68s7rmSfI/CVEbZYLLlFM=
 github.com/Fedodo/Fedodo.HomePage.Theme v1.1.1 h1:E4pPYyK1vq0Mx03Oo3jStWqFNyRxjJx4GDZwrlszL/E=
 github.com/Fedodo/Fedodo.HomePage.Theme v1.1.1/go.mod h1:vCc0Z+a3U3dPmbaaA7fPVE68s7rmSfI/CVEbZYLLlFM=
+github.com/Fedodo/Fedodo.HomePage.Theme v1.1.2 h1:zaegxsZavi6Mbxrc+4jf+x5yyb3GAeSGSGjeK2bQABg=
+github.com/Fedodo/Fedodo.HomePage.Theme v1.1.2/go.mod h1:vCc0Z+a3U3dPmbaaA7fPVE68s7rmSfI/CVEbZYLLlFM=
 github.com/StefMa/hugo-fresh v1.0.0 h1:Nxo9WtzfBlaFi1G8NEHQLReJQz+Dn4jRxec+lMrPG6k=
 github.com/StefMa/hugo-fresh v1.0.0/go.mod h1:yRzHyco0bfnITjvq7rfAiOADfGMrDlM0kXeKBllUJEc=
 github.com/jgthms/bulma v0.0.0-20220508134905-3e00a8e6d0d0/go.mod h1:89FLBKXYFKfOKAoDeUT26V0pHGwzr205cMXAEqtAVOI=
