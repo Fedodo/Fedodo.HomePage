@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: fedodo-home
-          image: fedodo/fedodo-home:dev
+          image: fedodo/fedodo-home:{{RUN_NUMBER}}
           imagePullPolicy: Always
           resources:
             limits:
