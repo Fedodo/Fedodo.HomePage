@@ -64,7 +64,7 @@ params:
           - text: Compare features
             link: /comingsoon
           - text: Our roadmap
-            link: /comingsoon
+            link: https://github.com/orgs/Fedodo/projects/1/views/3
       column2:
         title: "Docs"
         links:
