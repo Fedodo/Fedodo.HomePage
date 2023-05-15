@@ -47,6 +47,25 @@ params:
       url: /comingsoon
       button: true
 
+  section1:
+    title: Get Started
+#    subtitle: As a
+    tiles:
+      - title: As an user
+        icon: mouse-globe
+        text: Learn how to get started as an user.
+        url: /comingsoon
+        buttonText: Get started
+      - title: As an admin
+        icon: laptop-cloud
+        text: Learn how to host your own Fedodo server.
+        url: /comingsoon
+        buttonText: Get started
+      - title: As a developer
+        icon: plug-cloud
+        text: Learn how to build apps for Fedodo.
+        url: /comingsoon
+        buttonText: Get started
   section2:
     title: What are the key features of Fedodo?
 #    subtitle: And we know it
