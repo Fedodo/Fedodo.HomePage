@@ -34,7 +34,7 @@ params:
 
   navbar:
     - title: Features
-      url: /comingsoon
+      url: /features
     - title: Sponsor
       url: https://patreon.com/Fedodo
     - title: GitHub
@@ -97,9 +97,7 @@ params:
         title: "Fedodo"
         links:
           - text: Discover features
-            link: /comingsoon
-          - text: Compare features
-            link: /comingsoon
+            link: /features
           - text: Our roadmap
             link: https://github.com/orgs/Fedodo/projects/1/views/3
       column2:
