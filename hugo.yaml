@@ -40,7 +40,7 @@ params:
     - title: GitHub
       url: https://github.com/Fedodo
     - title: Docs
-      url: /comingsoon
+      url: https://docs.fedodo.org
     - title: Host Server
       url: /comingsoon
     - title: Find Server
@@ -103,6 +103,8 @@ params:
       column2:
         title: "Docs"
         links:
+          - text: Home
+            link: https://docs.fedodo.org
           - text: Get started
             link: /comingsoon
           - text: User guides
