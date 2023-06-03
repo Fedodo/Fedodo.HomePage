@@ -33,6 +33,8 @@ params:
     image: Fedodo.svg
 
   navbar:
+    - title: Assets
+      url: /assets
     - title: Features
       url: /features
     - title: Sponsor
