@@ -58,3 +58,23 @@ include_footer: true
 ©️ [SkullC](https://mastodon.social/@SkullC) - Licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/#)
 
 [Download](</images/Fedodo Circle Dark.png>)
+
+<br>
+
+## Fedodo-Micro-Logo.svg
+
+<img src="/images/Fedodo-Micro-Logo.svg" alt="Fedodo" width="200"/>
+
+©️ [LNA-DEV](https://lna-dev.net) & [SkullC](https://mastodon.social/@SkullC) - Licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/#)
+
+[Download](</images/Fedodo-Micro-Logo.svg>)
+
+<br>
+
+## Fedodo-Micro-Logo.png
+
+<img src="/images/Fedodo-Micro-Logo.png" alt="Fedodo" width="200"/>
+
+©️ [LNA-DEV](https://lna-dev.net) & [SkullC](https://mastodon.social/@SkullC) - Licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/#)
+
+[Download](</images/Fedodo-Micro-Logo.png>)
