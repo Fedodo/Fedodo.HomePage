@@ -60,6 +60,7 @@ include_footer: true
 [Download](</images/Fedodo Circle Dark.png>)
 
 <br>
+<br>
 
 ## Fedodo-Micro-Logo.svg
 
@@ -69,6 +70,7 @@ include_footer: true
 
 [Download](</images/Fedodo-Micro-Logo.svg>)
 
+<br>
 <br>
 
 ## Fedodo-Micro-Logo.png
