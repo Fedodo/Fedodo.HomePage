@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="250.24271mm"
-   height="286.46072mm"
-   viewBox="0 0 250.24271 286.46073"
+   width="229.04962mm"
+   height="229.04962mm"
+   viewBox="0 0 229.04962 229.04963"
    version="1.1"
    id="svg56935"
    sodipodi:docname="Fedodo-Micro-Logo.svg"
@@ -35,24 +35,6 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs56932">
-    <rect
-       x="-779.23631"
-       y="356.86003"
-       width="112.18715"
-       height="229.62827"
-       id="rect5589" />
-    <rect
-       x="-877.28246"
-       y="295.11658"
-       width="368.32747"
-       height="663.24842"
-       id="rect5583" />
-    <rect
-       x="-934.47993"
-       y="474.94392"
-       width="345.5789"
-       height="557.46105"
-       id="rect5577" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath5519">
@@ -69,7 +51,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(60.009609,43.074328)">
+     transform="translate(47.348824,15.147684)">
     <g
        id="Fedodo_1.0"
        transform="matrix(2.6937527,0,0,2.6937527,-577.74859,-1353.6144)"
@@ -4459,7 +4441,7 @@
            style="fill:#333332" />
         <polygon
            class="st7"
-           points="345.66,494.35 342.86,495.07 345.23,493.42 "
+           points="342.86,495.07 345.23,493.42 345.66,494.35 "
            id="polygon5803"
            style="fill:#333332" />
       </g>
@@ -4475,7 +4457,7 @@
            style="fill:#333332" />
         <polygon
            class="st7"
-           points="407.17,470.29 408.86,469.86 408.22,471.49 "
+           points="408.86,469.86 408.22,471.49 407.17,470.29 "
            id="polygon5809"
            style="fill:#333332" />
       </g>
@@ -4496,7 +4478,7 @@
            style="fill:#333332" />
         <polygon
            class="st7"
-           points="375.38,468.36 372.61,468.51 375.15,467.39 "
+           points="372.61,468.51 375.15,467.39 375.38,468.36 "
            id="polygon5817"
            style="fill:#333332" />
       </g>
@@ -4517,7 +4499,7 @@
            style="fill:#333332" />
         <polygon
            class="st7"
-           points="356.41,474.71 359.61,473.6 356.92,475.65 "
+           points="359.61,473.6 356.92,475.65 356.41,474.71 "
            id="polygon5825"
            style="fill:#333332" />
       </g>
@@ -8997,7 +8979,7 @@
            style="fill:#e94e1b" />
         <polygon
            class="st79"
-           points="176.61,379.41 173.74,381.71 175.87,378.71 "
+           points="173.74,381.71 175.87,378.71 176.61,379.41 "
            id="polygon7619"
            style="fill:#e94e1b" />
       </g>
@@ -9013,7 +8995,7 @@
            style="fill:#e94e1b" />
         <polygon
            class="st79"
-           points="248.95,328.23 249.69,325.88 250.54,328.2 "
+           points="249.69,325.88 250.54,328.2 248.95,328.23 "
            id="polygon7625"
            style="fill:#e94e1b" />
       </g>
@@ -9034,7 +9016,7 @@
            style="fill:#eb5d0b" />
         <polygon
            class="st81"
-           points="176.01,320.48 171.9,321.39 175.68,319.54 "
+           points="171.9,321.39 175.68,319.54 176.01,320.48 "
            id="polygon7633"
            style="fill:#eb5d0b" />
       </g>
@@ -9055,7 +9037,7 @@
            style="fill:#f9b233" />
         <polygon
            class="st76"
-           points="154.46,335.92 157.21,332.66 155.35,336.5 "
+           points="157.21,332.66 155.35,336.5 154.46,335.92 "
            id="polygon7641"
            style="fill:#f9b233" />
       </g>
