@@ -2,7 +2,7 @@
 title: "Assets"
 date: 2023-06-03T14:47:02+02:00
 draft: false
-include_footer: true 
+include_footer: true
 ---
 
 <br>
@@ -13,7 +13,7 @@ include_footer: true
 
 ©️ [SkullC](https://mastodon.social/@SkullC) - Licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/#)
 
-[Download](/images/Fedodo.svg)
+<a href="/images/Fedodo.svg" download="Fedodo.svg">Download</a>
 
 <br>
 <br>
@@ -24,7 +24,7 @@ include_footer: true
 
 ©️ [SkullC](https://mastodon.social/@SkullC) - Licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/#)
 
-[Download](</images/logos/Fedodo Circle.svg>)
+<a href="/images/logos/Fedodo Circle.svg" download="Fedodo Circle.svg">Download</a>
 
 <br>
 <br>
@@ -35,7 +35,7 @@ include_footer: true
 
 ©️ [SkullC](https://mastodon.social/@SkullC) - Licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/#)
 
-[Download](</images/logos/Fedodo Circle Dark.svg>)
+<a href="/images/logos/Fedodo Circle Dark.svg" download="Fedodo Circle Dark.svg">Download</a>
 
 <br>
 <br>
@@ -46,7 +46,7 @@ include_footer: true
 
 ©️ [SkullC](https://mastodon.social/@SkullC) - Licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/#)
 
-[Download](</images/Fedodo Circle.png>)
+<a href="/images/Fedodo Circle.png" download="Fedodo Circle.png">Download</a>
 
 <br>
 <br>
@@ -57,8 +57,9 @@ include_footer: true
 
 ©️ [SkullC](https://mastodon.social/@SkullC) - Licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/#)
 
-[Download](</images/Fedodo Circle Dark.png>)
+<a href="/images/Fedodo Circle Dark.png" download="Fedodo Circle Dark.png">Download</a>
 
+<br>
 <br>
 
 ## Fedodo-Micro-Logo.svg
@@ -67,8 +68,9 @@ include_footer: true
 
 ©️ [LNA-DEV](https://lna-dev.net) & [SkullC](https://mastodon.social/@SkullC) - Licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/#)
 
-[Download](</images/Fedodo-Micro-Logo.svg>)
+<a href="/images/Fedodo-Micro-Logo.svg" download="Fedodo-Micro-Logo.svg">Download</a>
 
+<br>
 <br>
 
 ## Fedodo-Micro-Logo.png
@@ -77,4 +79,4 @@ include_footer: true
 
 ©️ [LNA-DEV](https://lna-dev.net) & [SkullC](https://mastodon.social/@SkullC) - Licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/2.0/#)
 
-[Download](</images/Fedodo-Micro-Logo.png>)
+<a href="/images/Fedodo-Micro-Logo.png" download="Fedodo-Micro-Logo.png">Download</a>

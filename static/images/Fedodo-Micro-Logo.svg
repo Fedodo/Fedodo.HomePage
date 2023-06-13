@@ -8,7 +8,10 @@
    version="1.1"
    id="svg56935"
    sodipodi:docname="Fedodo-Micro-Logo.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09, custom)"
+   inkscape:export-filename="Fedodo-Micro-Logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,11 +27,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.29650813"
-     inkscape:cx="204.04162"
-     inkscape:cy="607.06599"
+     inkscape:zoom="0.074127033"
+     inkscape:cx="-2542.932"
+     inkscape:cy="512.6335"
      inkscape:window-width="1920"
-     inkscape:window-height="731"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -9089,13 +9092,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:137.863px;font-family:Righteous;-inkscape-font-specification:'Righteous, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:0.990271;stroke-width:0.165489"
-       x="10.760897"
-       y="146.0938"
+       x="12.487185"
+       y="141.99538"
        id="text5747"
        transform="scale(0.95670516,1.0452541)"><tspan
          sodipodi:role="line"
          id="tspan2103"
-         x="10.760897"
-         y="146.0938">M</tspan></text>
+         x="12.487185"
+         y="141.99538">M</tspan></text>
   </g>
 </svg>
