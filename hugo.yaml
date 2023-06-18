@@ -102,6 +102,8 @@ params:
             link: /features
           - text: Our roadmap
             link: https://github.com/orgs/Fedodo/projects/1/views/3
+          - text: Code of Conduct
+            link: /codeofconduct
       column2:
         title: "Docs"
         links:
