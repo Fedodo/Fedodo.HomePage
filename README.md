@@ -45,7 +45,7 @@ This is the repo for the Fedodo Home Page on fedodo.org
 <!-- CONTRIBUTING -->
 ## Contributing ✨
 
-If you have any ideas or want to contribute yourself... go for it. I really appreciate it if some of you have cool ideas🚀
+You find our Contributing-Guidelines here: <https://fedodo.org/contribute>
 
 <br>
 

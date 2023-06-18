@@ -104,6 +104,8 @@ params:
             link: https://github.com/orgs/Fedodo/projects/1/views/3
           - text: Code of Conduct
             link: /codeofconduct
+          - text: Contributing Guidelines
+            link: /contribute
       column2:
         title: "Docs"
         links:
