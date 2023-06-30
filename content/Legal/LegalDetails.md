@@ -12,7 +12,7 @@ Tatzelwurmstraße 18<br>
 Lukas Nagel<br>
 </p><p><strong>Kontakt:</strong> <br>
 Telefon: +4915678696547<br>
-E-Mail: <a href="mailto:lukas@lna-dev.net">lukas@lna-dev.net</a><br></p><p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
+E-Mail: <a href="mailto:legal@fedodo.org">legal@fedodo.org</a><br></p><p><strong>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</strong><br>
 Lukas Nagel <br>
 Tatzelwurmstraße 18<br>
 83126 Flintsbach <br></p> <p><strong>Haftungsausschluss: </strong><br><br><strong>Haftung für Inhalte</strong><br><br>
