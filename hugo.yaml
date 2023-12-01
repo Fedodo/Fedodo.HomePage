@@ -26,10 +26,10 @@ params:
     name: "Open Sans"
     sizes: [ 400,600 ]
   hero:
-    title: One Social-Media platform for all your needs
-    subtitle: Fedodo provides you with one server which handles all of your Social Networks.
-    buttontext: Get started
-    buttonlink: /comingsoon
+    title: One Social-Media platform for all your needs 
+    subtitle: ⚠️ I unfortunately paused the development of Fedodo. In this blog post I explained in detail why I did that. ⚠️ 
+    buttontext: To the post
+    buttonlink: https://lna-dev.net/en/posts/projects/whathappenedtofedodo/
     image: Fedodo.svg
 
   navbar:
