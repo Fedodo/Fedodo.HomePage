@@ -14,12 +14,14 @@ spec:
     spec:
       containers:
         - name: fedodo-home
-          image: fedodo/fedodo-home:{{RUN_NUMBER}}
+          image: fedodo/fedodo-home:{{ .Values.runNumber }}
           imagePullPolicy: Always
           resources:
+            requests:
+              memory: "128Mi"
+              cpu: "50m"
             limits:
               memory: "128Mi"
-              cpu: "500m"
           ports:
             - containerPort: 80
               name: port-http
